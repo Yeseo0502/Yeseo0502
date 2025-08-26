@@ -37,7 +37,15 @@
     <br> 
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=calm_pink" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeseo0502&layout=compact" />
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=calm_pink" 
+    alt="GitHub stats" 
+    style="width: 350px; height: auto; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeseo0502&layout=compact" 
+    alt="Top languages" 
+    style="width: 350px; height: auto; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" 
+  />
 </div>
