@@ -1,8 +1,12 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ffdbf5,100:e1f3fe&height=240&text=Hello%20Yeseo%20world❤️‍🔥&animation=scaleIn&fontColor=a6a8ce&fontSize=60" />
 </div>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Yeseo0502"/>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yeseo0502&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Yeseo0502"
+  width="600"
+  height="300"
+/>
 </a>
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
