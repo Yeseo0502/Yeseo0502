@@ -38,5 +38,5 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=flag-india" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=calm_pink" />
 </div>
