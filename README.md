@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ffdbf5,100:e1f3fe&height=240&text=Hello%20Yeseo%20world❤️‍🔥&animation=scaleIn&fontColor=a6a8ce&fontSize=60" />
     </div>
     <br>
-    ![Anurag's GitHub stats](https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=flag-india)
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=radical)
     <br>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
