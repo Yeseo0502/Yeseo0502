@@ -39,5 +39,5 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=calm_pink" />
-    <img scr=https://github-readme-stats.vercel.app/api/top-langs/?username=Yeseo0502&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeseo0502&layout=compact" />
 </div>
