@@ -1,7 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ffdbf5,100:e1f3fe&height=240&text=Hello%20Yeseo%20world❤️‍🔥&animation=scaleIn&fontColor=a6a8ce&fontSize=60" />
     </div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=flag-india)
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
@@ -25,4 +24,5 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
+    <br>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=flag-india)
