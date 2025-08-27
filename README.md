@@ -26,7 +26,6 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
     </div>
 </div>
-
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align="center">
@@ -42,7 +41,6 @@
     </div>  
     <br> 
 </div>
-
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=calm_pink" 
