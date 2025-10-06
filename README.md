@@ -43,8 +43,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Yeseo0502&show_icons=true&theme=calm_pink" 
     alt="GitHub stats" 
-    style="width: 350px; height: auto; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" 
-  />
+    style="width: 350px; height: auto; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeseo0502&layout=compact" 
     alt="Top languages" 
