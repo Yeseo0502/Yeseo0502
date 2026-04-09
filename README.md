@@ -51,3 +51,7 @@
     style="width: 350px; height: auto; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" 
   />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Yeseo0502/Yeseo0502/output/snake.svg" alt="Snake animation" />
